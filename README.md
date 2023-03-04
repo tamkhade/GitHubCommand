@@ -30,3 +30,6 @@ line for already staged files.
 Command:
 git commit -am "Commit message"
 
+12.Git merge is a command that allows you to merge branches from Git. It preserves the
+complete history and chronological order and maintains the context of the branch.
+git merge <branch_name>
