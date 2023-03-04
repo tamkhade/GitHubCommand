@@ -33,3 +33,8 @@ git commit -am "Commit message"
 12.Git merge is a command that allows you to merge branches from Git. It preserves the
 complete history and chronological order and maintains the context of the branch.
 git merge <branch_name>
+
+13.Git Fetch only downloads the latest changes into the local repository. It downloads
+fresh changes that other developers have pushed to the remote repository since the
+last fetch and allows you to review and merge manually at a later time using Git
+Merge. As it doesn’t change the working directory or the staging area, it is safe to use.
