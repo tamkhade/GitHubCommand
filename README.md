@@ -24,3 +24,9 @@ git push -u origin <branch_name>
 9.git push to push the code into repo
 
 10.git branch -r to list the branches.
+
+11.The -am along with the command is to write the commit message on the command
+line for already staged files.
+Command:
+git commit -am "Commit message"
+
