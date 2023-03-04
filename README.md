@@ -9,5 +9,5 @@
 
 Note: origin is the default name of remote
 
-4.Delete some branch from
+4.Delete branch using below command
 -git delete -d release-latest
